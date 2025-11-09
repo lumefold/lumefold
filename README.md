@@ -63,7 +63,7 @@ These endeavors exemplify my commitment to excellence, blending technical innova
 - 👯 I’m looking to collaborate on groundbreaking full stack projects, AI/ML integrations, or open-source tools for developers.
 - 🤔 I’m looking for help with distributed systems scaling and blockchain-secured APIs.
 - 💬 Ask me about freeCodeCamp journeys, scalable app architecture, or data-driven decision making.
-- 📫 How to reach me: GitHub issues, pull requests, or email at lumefold@example.com.
+- 📫 How to reach me: GitHub issues, pull requests, or email at hello@lumefold.com.
 - 😄 Pronouns: He/Him
 - ⚡ Fun fact: I engineered a portfolio clone so precise it was mistaken for the original in industry reviews!
 
